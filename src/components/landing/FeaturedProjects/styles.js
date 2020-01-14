@@ -1,14 +1,14 @@
 import styled from 'styled-components';
-import detailsIllustration from 'assets/illustrations/details.svg';
 
 export const Wrapper = styled.div`
-  background-image: url(${detailsIllustration});
   background-size: contain;
   background-position: left top;
   background-repeat: no-repeat;
+  background-color: #e0e0e0;
 `;
 
 export const SkillsWrapper = styled.div`
+  
   padding: 4rem 0;
   display: flex;
   align-items: center;
