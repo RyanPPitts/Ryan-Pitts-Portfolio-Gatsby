@@ -1,8 +1,11 @@
-const config = require('./src/data/config');
 
 require('dotenv').config({
   path: `.env.${process.env.NODE_ENV}`,
 });
+
+const config = require('./src/data/config');
+
+
 
 module.exports = {
   siteMetadata: {
