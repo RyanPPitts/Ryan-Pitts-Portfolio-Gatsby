@@ -51,7 +51,7 @@ export const Details = styled.div`
   }
 
   .Skills_Label {
-    margin-bottom: 5px;
+    margin-bottom: 15px;
     font-size: 18px;
     font-weight: 900;
     line-height: 24px;
