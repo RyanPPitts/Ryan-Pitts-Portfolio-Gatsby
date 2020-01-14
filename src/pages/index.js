@@ -9,8 +9,7 @@ export default () => (
     <Skills />
     <TechSkills />
     <FeaturedProjects/>
-   
-   <Projects />
+     <Projects />
  
   </Layout>
 );
