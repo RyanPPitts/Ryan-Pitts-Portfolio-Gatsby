@@ -3,7 +3,7 @@
   "private": true,
   "description": "A simple portfolio for developers",
   "version": "0.1.2",
-  "author": "Smakosh <ismai23l@hotmail.com>",
+  "author": "Ryan Pitts <ryanpitts26@gmail.com>",
   "dependencies": {
     "dotenv": "^6.2.0",
     "formik": "^1.4.1",
@@ -62,7 +62,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:smakosh/gatsby-portfolio-dev.git"
+    "url": "git@github.com:RyanPPitts/Ryan-Pitts-Portfolio-Gatsby.git"
   },
   "bugs": {
     "url": "https://github.com/smakosh/gatsby-portfolio-dev/issues"

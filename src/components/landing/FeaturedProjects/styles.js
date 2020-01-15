@@ -9,7 +9,7 @@ export const Wrapper = styled.div`
 
 export const SkillsWrapper = styled.div`
   
-  padding: 4rem 0;
+  padding: 3rem 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -22,6 +22,7 @@ export const SkillsWrapper = styled.div`
 export const Details = styled.div`
   flex: 1;
   padding-left: 2rem;
+  padding-bottom: 2rem;
 
   @media (max-width: 960px) {
     padding-left: unset;
@@ -58,13 +59,15 @@ export const Details = styled.div`
 
 export const Thumbnail = styled.div`
   flex: 1;
+ 
 
   @media (max-width: 960px) {
-    width: 100%;
-    margin-bottom: 2rem;
+    width: 80%;
+    margin-bottom: 1rem;
   }
 
   img {
     width: 100%;
+    border: 1px solid black;
   }
 `;

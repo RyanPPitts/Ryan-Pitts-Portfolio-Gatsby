@@ -2,6 +2,14 @@ import styled from 'styled-components';
 
 export const Wrapper = styled.div`
   padding: 2rem 0;
+
+  h2 {
+    font-size: 20px;
+    line-height: 22px;
+    color: #007bff;
+    font-weight: 700;
+  }
+
 `;
 
 export const Grid = styled.div`
@@ -29,6 +37,7 @@ export const Item = styled.div`
   h4 {
     color: #444452;
   }
+
 
   p {
     color: #707070;

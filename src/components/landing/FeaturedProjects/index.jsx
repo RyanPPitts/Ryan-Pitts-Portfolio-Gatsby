@@ -1,6 +1,6 @@
 import React from 'react'
-import { Container, Button } from 'components/common'
-import dev from 'assets/illustrations/skills.svg'
+import { Container } from 'components/common'
+import dev from 'assets/illustrations/dashboard.png'
 import { Wrapper, SkillsWrapper, Details, Thumbnail } from './styles'
 
 export const FeaturedProjects = () => (
