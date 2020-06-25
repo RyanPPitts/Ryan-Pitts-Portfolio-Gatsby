@@ -7,4 +7,5 @@ Using version control to keep track of changes
 # To start the gatsby project:
 
 Yarn Update
+
 Yarn Start 
