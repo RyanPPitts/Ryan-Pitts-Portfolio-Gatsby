@@ -1,4 +1,4 @@
-# RyanPPitts.com-Website-Portfolio
+# RyanPPitts.com-Portfolio-Website
 
 Portfolio or personal page built with Gatsby/React
 
