@@ -17,7 +17,7 @@ export const Skills = () => (
           from <a href="https://generalassemb.ly">General Assembly </a>.  I completed the full-time, software engineering immersive program in December 2019 and I'm excited to take the next steps in my developer career.
           </p>
          <p>
-         As a software engineer, I plan on continuing my education and growing my skillset both on the job and at home.  
+         As a software engineer , I plan on continuing my education and growing my skillset both on the job and at home.  
         I aspire to work with and contribute to the growing community of developers in the Pacific Northwest.   
         I'm passionate about building online applications that will create a high impact on business goals.  
         {/* In addition, I want to facilitate fast, scalable online applications that will create exponential growth fo in the companies growth. */}
