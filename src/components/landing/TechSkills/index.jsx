@@ -16,7 +16,7 @@ export const TechSkills = () => (
                 <li className="Skills_Item">Javascript (ES6+)</li>
                 <li className="Skills_Item">HTML5</li>
                 <li className="Skills_Item">CSS/(S)ASS</li>
-                <li className="Skills_Item">Python</li>
+                <li className="Skills_Item">Shopify/Liquid</li>
                 <li className="Skills_Item">SQL</li>
                 <li className="Skills_Item">C++ (learning in progress)</li>
             </ul>
@@ -34,14 +34,14 @@ export const TechSkills = () => (
             </div>
 
             <div className="Skills_Category">
-            <h2 className="Skills_Label">Tools</h2>
+            <h2 className="Skills_Label">Marketing Tools</h2>
             <ul>
-                <li className="Skills_Item">Bash</li>
-                <li className="Skills_Item">Git/GitHub</li>
-                <li className="Skills_Item">Chrome Dev Tools</li>
-                <li className="Skills_Item">Postman</li>
-                <li className="Skills_Item">MongoDB</li>
-                <li className="Skills_Item">Firebase</li>
+                <li className="Skills_Item">HubSpot</li>
+                <li className="Skills_Item">Facebook Business Manager</li>
+                <li className="Skills_Item">Google Adwords, Search Console, Merchant Center & Analytics</li>
+                <li className="Skills_Item">Klaviyo, MailChimp & HubSpot Email Marketing</li>
+                <li className="Skills_Item">Shopify Plus Platform</li>
+                <li className="Skills_Item">Amazon Seller Central</li>
             </ul>
             </div>
             </div>

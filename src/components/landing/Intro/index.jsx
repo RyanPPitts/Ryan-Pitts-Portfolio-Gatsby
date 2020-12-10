@@ -13,8 +13,7 @@ export const Intro = () => (
 				</span></h1>
 				<h2 className="Intro_header">
 				I'm Ryan Pitts,
-				a design-minded full-stack software engineer focused on 
-				building innovative experiences for your online customers.</h2>
+				a full-stack software engineer & experienced digital marketing specialist with over 10+ years of successfully growing ecommerce businesses</h2>
 
 				<a className="Link Link--is-button Intro__button" href="mailto:ryanpitts26@gmail.com?subject=Ryan Pitts|Personal Site " target="_blank" 
 				rel="noreferrer noopener">
