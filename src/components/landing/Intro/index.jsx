@@ -14,7 +14,10 @@ export const Intro = () => (
             👨🏼‍💻
           </span>
         </h1>
-        <h2 className="Intro_header">I'm Ryan Pitts, Shopify Developer & Digital Marketing Specialist</h2>
+        <h2 className="Intro_header">
+          I'm Ryan Pitts<br></br>
+          Shopify Developer & Digital Marketing Specialist
+        </h2>
 
         <a
           className="Link Link--is-button Intro__button"
